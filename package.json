@@ -1,0 +1,8 @@
+{
+  "name": "ember-gate-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "echo \"No frontend configured.\""
+  }
+}
